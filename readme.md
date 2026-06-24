@@ -177,6 +177,3 @@ graph TD
 *For technical walkthrough requests, system audits, or workflow automation consulting, contact [sbulutemre@gmail.com](https://www.google.com/search?q=mailto%3Asbulutemre%40gmail.com).*
 
 ```
-
-
-```
