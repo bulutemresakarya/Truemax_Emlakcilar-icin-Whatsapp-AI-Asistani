@@ -1,4 +1,3 @@
-```markdown
 # TrueMax – Autonomous Lead-to-Sale Real Estate & SLA Pipeline
 **[🇹🇷 Türkçe](#-türkçe) | [🇬🇧 English](#-english)**
 
