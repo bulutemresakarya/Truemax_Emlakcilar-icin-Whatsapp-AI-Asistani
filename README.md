@@ -1,1 +1,0 @@
-# Truemax_Emlakcilar-icin-Whatsapp-AI-Asistani
